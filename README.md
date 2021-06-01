@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<typing-effect data-lines='["This should be a good test", "Let’s begin the adventure"]'>
+  <span data-target="typing-effect.content"></span>
+  <span data-target="typing-effect.cursor">|</span>
+</typing-effect>
+
+
 <details class="Toast--animateIn">
   <summary> People who you should follow instead of me:</summary>
   <ul>
