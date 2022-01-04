@@ -1,7 +1,5 @@
 # I'm Alex 👋
 
-![Forky from Toy Story 4 on a black background](https://shots.codepen.io/fimion/pen/powNyKg-512.jpg)
-
 ## Things I do
 
 - [Enjoy the Vue](https://enjoythevue.io)
