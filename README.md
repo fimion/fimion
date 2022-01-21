@@ -4,6 +4,7 @@
 
 - [Enjoy the Vue](https://enjoythevue.io)
 - [My Blog](https://alex.party)
+- [Twitch Stream](https://twitch.tv/fimion)
 - [My Portfolio (WIP)](https://dangitalex.wtf)
 - [My Playground](https://icannot.design)
 
