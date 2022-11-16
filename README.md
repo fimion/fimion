@@ -2,7 +2,7 @@
 
 ## Things I do
 
-- [Enjoy the Vue](https://enjoythevue.io)
+
 - [My Blog](https://alex.party)
 - [Twitch Stream](https://twitch.tv/fimion)
 - [My Portfolio (WIP)](https://dangitalex.wtf)
@@ -10,13 +10,14 @@
 
 <details class="Toast--animateIn">
   <summary> People who you should follow instead of me:</summary>
-  <ul>
-    <li><a href="https://github.com/antfu">Anthony Fu</a></li>
-    <li><a href="https://github.com/octref">Pine</a></li>
-    <li><a href="https://github.com/patak-dev">Patak</a></li>
-    <li><a href="https://github.com/cassidoo">Cassidy Williams</a></li>
-    <li><a href="https://github.com/bencodezen">Ben Hong</a></li>
-    <li><a href="https://github.com/shortdiv">Divya</a></li>
-    <li><a href="https://github.com/lauragift21">Gift Egwuenu</a></li>
-  </ul>
+
+- [Enjoy the Vue](https://enjoythevue.io)
+- [Anthony Fu](https://github.com/antfu)
+- [Pine](https://github.com/octref)
+- [Patak](https://github.com/patak-dev)
+- [Cassidy Williams](https://github.com/cassidoo)
+- [Ben Hong](https://github.com/bencodezen)
+- [Divya](https://github.com/shortdiv)
+- [Gift Egwuenu](https://github.com/lauragift21)
+
 </details>
