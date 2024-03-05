@@ -2,7 +2,7 @@
 
 ## About Me
 
-I generally make terrible things ***with intention.***
+I generally make *cursed* things ***with intention.***
 
 > "Did you see what this jackwagon did?" -[Homer Gaines](https://github.com/xirclebox)
 
