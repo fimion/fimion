@@ -10,6 +10,8 @@ I generally make *cursed* things ***with intention.***
 
 > "So you woke and choose violence" -[Nerando Johnson](https://github.com/Nerajno)
 
+> "No, Alex, I will not open another CodePen." - [Abbey Perini](https://github.com/abbeyperini)
+
 > "But, why?" - Most People
 
 ## Things I do
