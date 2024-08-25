@@ -6,6 +6,8 @@ I generally make *cursed* things ***with intention.***
 
 > "Did you see what this jackwagon did?" -[Homer Gaines](https://github.com/xirclebox)
 
+> "if there’s anyone on this god forsaken internet i trust to do something incredible with a probably deprecated technology, it’s you lol" - [@gingerchew](https://github.com/gingerchew)
+
 > "Alex, no" -[Andrew Walpole](https://github.com/walpolea)
 
 > "So you woke and choose violence" -[Nerando Johnson](https://github.com/Nerajno)
