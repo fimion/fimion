@@ -4,6 +4,8 @@
 
 I generally make *cursed* things ***with intention.***
 
+> "I don't often say this, but Alex, please step away from the computer." -[Dave Rupert](https://github.com/davatron5000)
+
 > "Did you see what this jackwagon did?" -[Homer Gaines](https://github.com/xirclebox)
 
 > "if there’s anyone on this god forsaken internet i trust to do something incredible with a probably deprecated technology, it’s you lol" - [@gingerchew](https://github.com/gingerchew)
